@@ -1,2 +1,0 @@
-hi helloo!!!!
-this is my first git project
